@@ -6,4 +6,5 @@ Configuration file management.
 - [ ] Required associated programs (e.g. .vimrc requires vim to be installed)
 - [ ] Config file adoption
 - [ ] Git integration for versioning
+  - [ ] Encryption for configs with sensitive information
 - [ ] Sane file organization
